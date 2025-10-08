@@ -1,0 +1,9 @@
+branched? with parameters 511 | 20
+took input with parameters 0 |  | 
+stored with parameters 22
+branched? with parameters 511 | 20
+took input with parameters 0 |  | 
+stored with parameters 22
+stored with parameters 511
+branched? with parameters 511 | 20
+program halted
